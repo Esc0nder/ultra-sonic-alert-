@@ -11,11 +11,22 @@ LED
 
 pinout:
 ultrasonic sensor to esp
+
 VCC -> 5V
+
 TRIG -> G5
+
 ECHO -> G18
-GND -> GND
+
+GND -> 
+
+
 optional:
+
 led to esp
+
 led+ -> G2
+
 led- -> GND
+
+
