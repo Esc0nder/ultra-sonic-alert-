@@ -12,6 +12,7 @@ jumper/dupont wires
 
 
 optional:
+
 LED
 
 breadboards
