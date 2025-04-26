@@ -3,12 +3,18 @@ i came up with this idea cause my kitten keeps escaping out my backdoor its quit
 but i still thought it might be worth posting anyway
 
 what youll need:
-esp32(i use the esp-wroom-32 but should work on othera)
-HC-SR04 ultrasonic sensor 
+
+esp32(i use the esp-wroom-32 but should work on others)
+
+HC-SR04 ultrasonic sensor
+
 jumper/dupont wires
+
+
 optional:
 LED
 
+breadboards
 pinout:
 ultrasonic sensor to esp
 
