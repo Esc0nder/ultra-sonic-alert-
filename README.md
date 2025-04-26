@@ -38,3 +38,8 @@ led+ -> G2
 led- -> GND
 
 
+![Snapchat-1080583046](https://github.com/user-attachments/assets/40b9ef54-764c-430d-9942-12447a5da23e)
+
+
+https://github.com/user-attachments/assets/fda98b7f-1c31-40b2-83b3-5764cef0efc0
+
